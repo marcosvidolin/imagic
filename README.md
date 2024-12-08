@@ -1,1 +1,1 @@
-# magic
+# imagic
